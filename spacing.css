@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>SheCodes Homepage</title>
-    <style>
+
         button {
             border: 1px solid #885df1;
             border-radius: 30px;
@@ -80,42 +74,4 @@
             text-decoration: underline;
         }
 
-            
-        </style>
-    </head>
-    <body>
-        <h1>
-            SheCodes
-        </h1>
-        <h2>
-            Coding Workshop
-        </h2>
-        <button>
-            Apply now
-        </button>
-        <ul>
-            <li>
-                <a href="https://www.shecodes.io/students" target="_blank" class="tools">
-                Coders
-                </a>
-            </li>
-            <li>
-                <a href="https://www.shecodes.io/workshops" target="_blank" class="premium">
-                    Courses
-                </a>
-            </li>
-            <li>
-                <a href="https://www.shecodes.io/stories" target="_blank" class="free">
-                    Stories
-                </a>
-            </li>
-        </ul>
-        <hr/>
-        <p>
-            <strong>
-                More Info
-            </strong>
-        </p>
-            <img src="https://computerwithwomen.weebly.com/uploads/1/2/5/1/125101225/shutterstock-753780223-750x365_1_orig.jpg" alt="Women coding" width="300"/>
-    </body>
-</html>
+      
