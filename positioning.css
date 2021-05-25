@@ -1,0 +1,57 @@
+  button {
+            border: 1px solid #885df1;
+            border-radius: 30px;
+            box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.2);
+            margin: 20px auto;
+            display: block;
+            color: #885df1;
+            font-size: 16px;
+            background: transparent;
+            padding: 15px 20px;
+            transition: all 200ms ease;
+        }
+
+        button:hover {
+            background: #885df1;
+            color: #ffffff;
+            cursor: pointer;
+        }
+
+        body {
+            background: #f6f2fe;
+        }
+        
+        h1 {
+        text-decoration: underline;
+        color: #885df1;
+        font-size: 32px;
+        font-weight: 700;
+        text-align: center;
+        }
+
+        h2 {
+            color: #272044;
+            text-align: center;
+        }
+
+        .tools {
+            color: blue;
+        }
+
+        .premium {
+            color: red;
+        }
+
+        .free {
+            color: green;
+        }
+
+        p {
+            text-align: center;   
+        }
+
+        img  {
+            width: 300px;
+            display: block;
+            margin: 0 auto;
+        }
