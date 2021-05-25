@@ -1,0 +1,61 @@
+   div { 
+        display: block;
+        margin: 120px 0;
+      }
+
+      h1 {
+       text-align: center;
+       font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+       font-weight: 900;
+       font-size: 34px;
+       line-height: 48px;
+       margin: 0 auto;
+       display: block;
+      }
+
+      h2 { 
+        text-align: center;
+        color: #8064e9;
+        font-family: Cerebri Sans, Helvetica, Arial, sans-serif;
+        padding: 0 0 24px;
+        font-weight: 900;
+        font-size: 34px;
+        line-height: 48px;
+        margin: 0;
+      }
+
+
+      p {
+        text-align: center;
+        font-family: PT Mono, monospace;
+        line-height: 28px;
+        font-size: 18px;
+      }
+
+      strong {
+        font-weight: 700px;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      button {
+        display: block;
+        margin: 0 auto;
+        border-radius: 25px;
+        border: 1px solid #8064e9;
+        background: #8064e9;
+        color: #fff;
+        font-size: 16px;
+        line-height: 22px;
+        padding: 16px 24px;
+        text-decoration: none;
+        box-shadow: rgb(37 42 89 / 8%);
+        transition: all 200ms ease-in-out;
+      }
+      
+      button:hover {
+        cursor: pointer;
+        background: #5e41a7;
+      }
