@@ -1,0 +1,110 @@
+ h1 {
+        text-align: center;
+        font-size: 34px;
+        margin: 0;
+        line-height: 48px;
+    }
+    
+    h2 {
+        text-align: center;
+        color: #1964d6;
+        font-size: 34px;
+        line-height: 48px;
+        margin: 0;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    h3 {
+        text-align: center;
+        margin: 0;
+        font-size: 34px;
+        line-height: 48px;
+        font-weight: 400;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    .twentythree {
+        font-size: 34px;
+        line-height: 48px;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    ul {
+        margin: 1em 0px;
+        display: block;
+        list-style-type: disc;
+        padding: 0;
+        text-align: center;
+        }
+
+    strong {
+        font-weight: bold;
+        font-size: 18px;
+        text-align: center;
+        font-family: monospace;
+    }
+
+p {
+    display: block;
+    margin: 1em 0px;
+    font-family: monospace;
+    text-align: center;
+    opacity: 0.7;
+    font-size: 18px;
+    text-align: center;
+}
+
+    li {
+        list-style: none;
+        text-align: center;
+        transition: all 200 ms ease-in-out;
+        padding: 10px 0;
+        border-radius: 10px;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+li:hover {
+        background: #fefbef
+    }
+
+    .tomorrow  {
+        font-size: 1.17em;
+        margin: 1em 0px;
+        font-weight: bold;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    .saturday {
+        font-size: 1.17em;
+        margin: 1em 0px;
+        font-weight: bold;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    .sunday {
+        font-size: 1.17em;
+        margin: 1em 0px;
+        font-weight: bold;
+        font-family: Helvetica, Arial, sans-serif;
+    }
+
+    button {
+        transition: all 200 ms ease-in-out;
+        margin: 20px auto;
+        display: block;
+        background: #1a64d6;
+        color: #fff;
+        border: 1px solid #1a64d6;
+        font-size: 16px;
+        line-height: 28px;
+        padding: 16px 24px;
+        border-radius: 30px;
+        cursor: pointer;
+        box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
+        }
+
+    button:hover {
+        background: #ffffff;
+        color: #1964d6;
+    }
